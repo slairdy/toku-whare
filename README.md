@@ -7,7 +7,5 @@ Deepti Khanolkar
 Keiko Smith  
 Terry Jo Blyth  
 Sacha Laird  
-
-<video width="320" height="240" autoplay>
-  <source src="https://github.com/slairdy/toku-whare/blob/main/server/public/screen-capture%20(1).webm" type="video/webm">
-</video>
+  
+![Tōku Whare](https://github.com/slairdy/toku-whare/blob/main/server/public/images/layouts.png)
